@@ -1,0 +1,6 @@
+ahora deshacemos cambios con HEAD
+
+ahora vamos a probar con RESET
+-soft
+-mix
+-hard
